@@ -1,0 +1,23 @@
+﻿@page
+@model Guestbook_Razor_Pages.Pages.IndexModel
+<div class="show-comments">
+    @if (HttpContext.Session.GetString("login") != null)
+    {
+        <form asp-page="./Index" class="feedback-form">
+            <div class="textarea-wrapper">
+                <label>Ваш коментар</label>
+                <textarea name="comment" placeholder="Введіть текст...">
+                </textarea>
+            </div>
+            <input type="submit" class="submit-btn">
+        </form>
+    }
+    @foreach(var message in Model.Messages)
+    {
+        <div class="comment">
+             <p class="login">@message.User!.Login</p>
+             <p class="date">@message.Date</p>         
+             <p>@message.Text<p/>
+        </div>
+    }
+</div>

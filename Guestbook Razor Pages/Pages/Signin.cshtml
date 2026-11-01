@@ -1,0 +1,25 @@
+﻿@page
+@model Guestbook_Razor_Pages.Pages.SigninModel
+<div class="auth-card">
+    <h2>Вхід</h2>
+    <form asp-action="Index">
+        <div asp-validation-summary="ModelOnly" class="error-summary"></div>
+        <div class="input-group">
+            <label asp-for="loginModel.Login"></label><br />
+            <input asp-for="loginModel.Login" placeholder="Логін" /><br />
+            <span asp-validation-for="loginModel.Login" class="error"></span>
+        </div>
+        <div class="input-group">
+            <label asp-for="loginModel.Password"></label><br />
+            <input asp-for="loginModel.Password" placeholder="Пароль"/><br />
+            <span asp-validation-for="loginModel.Password" class="error"></span>
+        </div>
+        <div class="button-group">
+            <input type="submit" value="Увійти"/>
+            <a asp-page="./Index" class="error">Повернутися</a>
+        </div>
+        @section Scripts {
+            @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+        }
+    </form>
+</div>

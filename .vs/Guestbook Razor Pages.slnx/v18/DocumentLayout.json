@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|c:\\users\\user\\source\\repos\\guestbook razor pages\\guestbook razor pages\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|solutionrelative:guestbook razor pages\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|c:\\users\\user\\source\\repos\\guestbook razor pages\\guestbook razor pages\\pages\\exit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|solutionrelative:guestbook razor pages\\pages\\exit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|c:\\users\\user\\source\\repos\\guestbook razor pages\\guestbook razor pages\\pages\\signin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|solutionrelative:guestbook razor pages\\pages\\signin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|c:\\users\\user\\source\\repos\\guestbook razor pages\\guestbook razor pages\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|solutionrelative:guestbook razor pages\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|c:\\users\\user\\source\\repos\\guestbook razor pages\\guestbook razor pages\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|solutionrelative:guestbook razor pages\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|c:\\users\\user\\source\\repos\\guestbook razor pages\\guestbook razor pages\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|solutionrelative:guestbook razor pages\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|c:\\users\\user\\source\\repos\\guestbook razor pages\\guestbook razor pages\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|solutionrelative:guestbook razor pages\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|c:\\users\\user\\source\\repos\\guestbook razor pages\\guestbook razor pages\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|solutionrelative:guestbook razor pages\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|c:\\users\\user\\source\\repos\\guestbook razor pages\\guestbook razor pages\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|solutionrelative:guestbook razor pages\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|c:\\users\\user\\source\\repos\\guestbook razor pages\\guestbook razor pages\\pages\\exit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|solutionrelative:guestbook razor pages\\pages\\exit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|c:\\users\\user\\source\\repos\\guestbook razor pages\\guestbook razor pages\\pages\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|solutionrelative:guestbook razor pages\\pages\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|c:\\users\\user\\source\\repos\\guestbook razor pages\\guestbook razor pages\\repository\\irepositorymessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|solutionrelative:guestbook razor pages\\repository\\irepositorymessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|c:\\users\\user\\source\\repos\\guestbook razor pages\\guestbook razor pages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|solutionrelative:guestbook razor pages\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|c:\\users\\user\\source\\repos\\guestbook razor pages\\guestbook razor pages\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A819BF8-9DF4-04D5-344A-E76761DAAE74}|Guestbook Razor Pages\\Guestbook Razor Pages.csproj|solutionrelative:guestbook razor pages\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Exit.cshtml.cs",
+              "RelativeDocumentMoniker": "Guestbook Razor Pages\\Pages\\Exit.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Exit.cshtml.cs",
+              "RelativeToolTip": "Guestbook Razor Pages\\Pages\\Exit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:18:32.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Exit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Exit.cshtml",
+              "RelativeDocumentMoniker": "Guestbook Razor Pages\\Pages\\Exit.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Exit.cshtml",
+              "RelativeToolTip": "Guestbook Razor Pages\\Pages\\Exit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T12:18:25.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Guestbook Razor Pages\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Guestbook Razor Pages\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:14:49.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Signin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Signin.cshtml.cs",
+              "RelativeDocumentMoniker": "Guestbook Razor Pages\\Pages\\Signin.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Signin.cshtml.cs",
+              "RelativeToolTip": "Guestbook Razor Pages\\Pages\\Signin.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T12:07:56.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Guestbook Razor Pages\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Guestbook Razor Pages\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T11:16:41.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Guestbook Razor Pages\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Guestbook Razor Pages\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:18:06.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Guestbook Razor Pages\\Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Register.cshtml",
+              "RelativeToolTip": "Guestbook Razor Pages\\Pages\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T11:26:03.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "Guestbook Razor Pages\\Models\\RegistrationModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "Guestbook Razor Pages\\Models\\RegistrationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:34:18.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Guestbook Razor Pages\\Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "Guestbook Razor Pages\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:26:49.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Signin.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Signin.cshtml",
+              "RelativeDocumentMoniker": "Guestbook Razor Pages\\Pages\\Signin.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Signin.cshtml",
+              "RelativeToolTip": "Guestbook Razor Pages\\Pages\\Signin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T12:05:08.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Guestbook Razor Pages\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Guestbook Razor Pages\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-01T11:13:49.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepositoryMessage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Repository\\IRepositoryMessage.cs",
+              "RelativeDocumentMoniker": "Guestbook Razor Pages\\Repository\\IRepositoryMessage.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Repository\\IRepositoryMessage.cs",
+              "RelativeToolTip": "Guestbook Razor Pages\\Repository\\IRepositoryMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:44:28.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\appsettings.json",
+              "RelativeDocumentMoniker": "Guestbook Razor Pages\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\appsettings.json",
+              "RelativeToolTip": "Guestbook Razor Pages\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-01T11:05:13.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Program.cs",
+              "RelativeDocumentMoniker": "Guestbook Razor Pages\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Guestbook Razor Pages\\Guestbook Razor Pages\\Program.cs",
+              "RelativeToolTip": "Guestbook Razor Pages\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T11:04:55.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

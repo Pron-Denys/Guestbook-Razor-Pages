@@ -1,0 +1,43 @@
+﻿@page
+@model Guestbook_Razor_Pages.Pages.RegisterModel
+<div class="registration-container">
+    <h2 class="subtitle">Реєстрація</h2>
+    <form asp-action="Registration">
+        <div asp-validation-summary="ModelOnly"></div>
+        <div class="input-group">
+            <label asp-for="registrationModel.Name"></label>
+            <input type="text" asp-for="registrationModel.Name" placeholder="Введіть ім'я" />
+            <span asp-validation-for="registrationModel.Name" class="error"></span>
+        </div>
+        <div class="input-group">
+            <label asp-for="registrationModel.Surname"></label>
+            <input type="text" asp-for="registrationModel.Surname" placeholder="Введіть прізвище" />
+            <span asp-validation-for="registrationModel.Surname" class="error"></span>
+        </div>
+        <div class="input-group">
+            <label asp-for="registrationModel.Login"></label>
+            <input type ="text" asp-for="registrationModel.Login" placeholder="Введіть логін" />
+            <span asp-validation-for="registrationModel.Login" class="error"></span>
+        </div>
+        <div class="input-group">
+            <label asp-for="registrationModel.Year"></label>
+            <input type="number" asp-for="registrationModel.Year" placeholder="Введіть свій вік" />
+            <span asp-validation-for="registrationModel.Year" class="error"></span>
+        </div>
+        <div class="input-group">
+            <label asp-for="registrationModel.Password"></label>
+            <input asp-for="registrationModel.Password" placeholder="Введіть пароль" />
+            <span asp-validation-for="registrationModel.Password" class="error"></span>
+        </div>
+        <div class="input-group">
+            <label asp-for="registrationModel.PasswordConfirm"></label>
+            <input asp-for="registrationModel.PasswordConfirm" placeholder="Введіть пароль" />
+            <span asp-validation-for="registrationModel.PasswordConfirm" class="error"></span>
+        </div>
+        <input type="submit" value="Зареєструватися" class="submit-btn" />
+        <a asp-page="./Index" class="back-btn">Повернутися</a>
+        @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+        }
+    </form>
+</div>
